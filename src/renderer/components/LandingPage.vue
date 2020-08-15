@@ -14,7 +14,7 @@ export default {
   components: {
     tool
   },
-  data() {
+  data () {
     return {
       tools: ToolList.data
     }

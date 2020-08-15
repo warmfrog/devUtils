@@ -26,7 +26,7 @@
 <script>
 export default {
   name: 'string-tool',
-  data() {
+  data () {
     return {
       string1: '',
       string2: '',
@@ -45,7 +45,7 @@ export default {
     }
   },
   methods: {
-    ifEquals() {
+    ifEquals () {
       if (this.string1 === this.string2) {
         this.result = 1
       } else {

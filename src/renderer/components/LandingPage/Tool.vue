@@ -1,5 +1,5 @@
 <template>
-  <div class="col-12  col-sm-6  col-md-4 col-lg-3">
+  <div class="col-12  col-sm-6  col-md-6 col-lg-4">
     <div class="card" style="width: 18rem;">
       <div class="card-body">
         <router-link :to="tool.url" class="card-title h5 text-dark">{{ tool.name }}</router-link>

@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "时间戳转换",
-      "description": "时间戳转换工具",
+      "description": "时间戳转换工具, 获取当前时间，日期转换",
       "url": "/timeTool"
     },
     {
